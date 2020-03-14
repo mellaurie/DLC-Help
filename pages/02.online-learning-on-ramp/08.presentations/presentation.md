@@ -3,6 +3,7 @@ title: Presentations
 textsize:
     scale: '1.2'
 horizontal: true
+shortcodes: true
 ---
 
 # Your First Slide Title
