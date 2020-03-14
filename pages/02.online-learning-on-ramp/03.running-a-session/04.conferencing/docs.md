@@ -53,6 +53,8 @@ Once you are signed in, we recommend that you schedule **one** Zoom session per 
 - select 'Enable join before host' and 'Mute participants upon entry'
 - tap or click 'Save'
 
+On the next page...
+
 ![alt_text](zoom-10.png "invite link")
 - you can either simply share the link provided on the meeting page, or
 - tap or click 'Copy the invitation'
@@ -65,7 +67,19 @@ Once you are signed in, we recommend that you schedule **one** Zoom session per 
 
 [plugin:youtube](https://www.youtube.com/watch?v=AYzPS28rg7E)
 
+[plugin:youtube](https://www.youtube.com/watch?v=9wsWpnqE6Hw)
 
+[plugin:youtube](https://www.youtube.com/watch?v=9wsWpnqE6Hw)
+
+##### Zoom Tutorial Articles
+
+- [Sharing a Whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard)
+- [Using the Chat functions](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat)
+- [Creating a Poll](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-Meetings#h_fe37b3f4-8e05-4b87-bd66-12d8c7f19ff8)
+- [Launching a Poll](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-Meetings#h_bdab5a42-600b-4ee0-8f3c-76a87b3f8ef3)
+
+##### Zoom FAQ
+[TWIT has created a page of resources (many of which are duplicated here) including a list of FAQs.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=101246)
 
 ##### BlueJeans
 TWU continues to provide central management of BlueJeans for web-conferencing, however, our service agreement with BlueJeans will expire after April 30, 2020.
