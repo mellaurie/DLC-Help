@@ -69,8 +69,6 @@ On the next page...
 
 [plugin:youtube](https://www.youtube.com/watch?v=9wsWpnqE6Hw)
 
-[plugin:youtube](https://www.youtube.com/watch?v=9wsWpnqE6Hw)
-
 ##### Zoom Tutorial Articles
 
 - [Sharing a Whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard)
