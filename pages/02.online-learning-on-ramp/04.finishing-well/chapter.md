@@ -4,4 +4,6 @@ taxonomy:
     category: docs
 ---
 
-...coming
+Among the most significant questions we are receiving is 'What about final exams?'.
+
+Click through for some thoughts and suggestions.

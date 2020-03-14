@@ -85,3 +85,7 @@ How is this experience of a global pandemic connected to your course? Dig in!
 - adjusted your gradebook?  
 
 ---
+
+# [learn.twu.ca](https://learn.twu.ca)
+
+---
