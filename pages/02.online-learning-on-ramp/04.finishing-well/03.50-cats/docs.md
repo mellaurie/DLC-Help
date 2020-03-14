@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
 ---
 
 ## 50 CATs by Angelo and Cross

@@ -67,3 +67,21 @@ You are not alone! The learners in your class can have excellent ideas on how to
 
 #### Ways to find the learning moment.  
 How is this experience of a global pandemic connected to your course? Dig in!
+
+---
+
+# Moodle
+
+---
+
+#### Have you...
+- asked your students?  
+- logged in?  
+- uploaded a file?  
+- sent a message?  
+- created a welcome forum?  
+- created an assignment dropbox?  
+- created a quiz?  
+- adjusted your gradebook?  
+
+---
