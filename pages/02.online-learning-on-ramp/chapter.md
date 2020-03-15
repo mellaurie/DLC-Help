@@ -4,15 +4,21 @@ taxonomy:
     category: docs
 ---
 
-Resources for preparing your course for disruptions to campus access.
+!! See [TWU.ca](https://www.twu.ca) for the latest official information about COVID-19.
 
-> These resources DO NOT constitute TWU's official response to COVID-19. See [TWU.ca](https://www.twu.ca) for the latest official information.
+### Scheduled Support for Faculty
+##### Monday, March 16, 2020
+| Topic |  Time | Location | Zoom Link |
+|---|---|---|---|
+|Moving Online: Foundations   |  9:00 - 10:00 am   | Block Hall    |  [Link to Session](https://twu.zoom.us/j/826710374?pwd=a2VPZVNOWWVibXVuemFiTTNpUUR2QT09) |
+| Faculty Consulting and Support     | 10:30 am - 12:00 pm  | Learning Commons  |   |
+| Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/900964178?pwd=ckN2WDNiR3ZoZktCdkpzbEoyWjcwQT09)  |
+|  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |
 
-Remember that you can always practice good hygiene etiquette by:
-- Washing hands with soap and water for at least 20 seconds
-- Using an alcohol-based hand sanitizer (if soap and water are not available)
-- Not sharing food or utensils with others
-- Using proper coughing or sneezing etiquette (cough/sneeze into elbow or tissue, not hand)
-- Staying home when sick
-
-! This is an evolving set of resources...please check back often.
+##### Tuesday, March 17, 2020
+| Topic |  Time | Location | Zoom Link |
+|---|---|---|---|
+|  Moving Online: Foundations |  9:00 - 10:00 am  |  Block Hall | [Link to Session](https://twu.zoom.us/j/280965367?pwd=MlRwOWJScnE1VTRTc1hNeHUwWjhHQT09&_ga=2.268795058.2138497719.1584210451-1486935178.1580334446)   |
+|  Faculty Consulting and Support |   10:30 am - 12:00 pm  | Learning Commons  |   |
+| Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/204165331?pwd=UlZLNEJLa1VlckVkY3hyOVhyWldLdz09)  |
+|  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |

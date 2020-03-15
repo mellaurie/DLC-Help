@@ -7,10 +7,24 @@ horizontal: true
 
 # Moving Online
 
-### Assessment
+### Assessment and Exams
 
 ---
 
-# Your Second Slide Title
+Direction from the Provost
 
-Your slide text goes here.
+---
+
+# Assumptions
+- *status quo* is lost
+- learners have access to all class materials (textbooks, notes, past assignments, each other)
+- learners have access to the web
+- 
+---
+
+![](flowchart-white-bg.png)
+
+---
+# Nina Pak Lui
+
+---
