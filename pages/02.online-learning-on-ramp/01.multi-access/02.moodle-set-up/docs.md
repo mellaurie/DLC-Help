@@ -14,12 +14,13 @@ There are also some things you can do ahead of any significant disruption to ens
 Here are some simple tasks to help you set up a basic Moodle site.
 
 - [Accessing Moodle](https://create.twu.ca/help/moodle/basics/introduction)
+- [Create a welcome forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum)
 - [Uploading files (syllabi, sample documents, etc) to Moodle](http://create.twu.ca/help/moodle/faculty/activity-or-resource/adding-resources)
 
 ##### Yes, email is a reasonable tool!
 For some of you, it might be enough to upload a PDF or MS Word file with your syllabus and then manage communication and file exchange with your learners via email. There is a very long history of online learning using email. It actually extends far beyond that, though; distance learning and remote learning principles are evident in the New Testament epistles.
 
-You can access student emails directly in Moodle by licking [I'm keeping the typo. Please don't lick your computer.] the 'Participants' link in the menu on the left side of the page.
+You can access student emails directly in Moodle by licking [I'm keeping the typo. Please don't lick your computer. ~cm] the 'Participants' link in the menu on the left side of the page. If you have a large class, you can also [export your gradebook to MS Excel](https://create.twu.ca/help/moodle/faculty/grade-book/download-gradebook), and column F should be all the learner emails in your course. From there, you can copy and paste into an email 'To:' field.
 
 ##### Using Moodle to connect learners with Library resources
 The TWU Library is accessible online, and there is a tool integrated in Moodle to allow you to create a share reading lists.

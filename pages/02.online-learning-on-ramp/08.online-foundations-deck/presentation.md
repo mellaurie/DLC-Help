@@ -11,7 +11,10 @@ horizontal: true
 
 ---
 
-![](Slide01.png)
+![](watters.png)
+
+[textalign=bottom][Audrey Watters](https://hewn.substack.com/p/hewn-no-345)
+
 
 ---
 
