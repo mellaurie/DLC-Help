@@ -9,6 +9,23 @@ visible: true
 
 !! [Please check the announcement on the TWU website](https://www.twu.ca) for the latest updates regarding TWU's response to COVID-19.
 
+### Scheduled Support for Faculty
+##### Monday, March 16, 2020
+| Topic |  Time | Location | Zoom Link |
+|---|---|---|---|
+|Moving Online: Foundations   |  9:00 - 10:00 am   | Block Hall    |  [Link to Session](https://twu.zoom.us/j/826710374?pwd=a2VPZVNOWWVibXVuemFiTTNpUUR2QT09) |
+| Faculty Consulting and Support     | 10:30 am - 12:00 pm  | Learning Commons  |   |
+| Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/900964178?pwd=ckN2WDNiR3ZoZktCdkpzbEoyWjcwQT09)  |
+|  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |
+
+##### Tuesday, March 17, 2020
+| Topic |  Time | Location | Zoom Link |
+|---|---|---|---|
+|  Moving Online: Foundations |  9:00 - 10:00 am  |  Block Hall | [Link to Session](https://twu.zoom.us/j/280965367?pwd=MlRwOWJScnE1VTRTc1hNeHUwWjhHQT09&_ga=2.268795058.2138497719.1584210451-1486935178.1580334446)   |
+|  Faculty Consulting and Support |   10:30 am - 12:00 pm  | Learning Commons  |   |
+| Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/204165331?pwd=UlZLNEJLa1VlckVkY3hyOVhyWldLdz09)  |
+|  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |
+
 ~~In the event that access to TWU campuses is completely disrupted,~~ Now that the University has decided to move online for the remainder of this semester, here are several strategies that you may employ as faculty or staff to mitigate the impact on learners in your courses. However, before considering technological 'solutions' to the problem of limited or no access to campus, it is critical to recognize that ~~if~~ now that we find ourselves in that situation, there are a host of very human and messy pressures on learners in your classes, faculty and staff in your department, and administrators at all levels. These pressures and the associated stresses in all of our lives will never be resolved by 'going online'. Ever.
 
 Above all else, remember that we are all human. Your courses are already disrupted and you will not be able to maintain the *status quo*. Your learners will not be able to maintain the *status quo*. Deans, AVPs, VPs, EDs and everyone who supports the work of learning at TWU will not be able to maintain the *status quo*. And that is ok.
@@ -31,6 +48,7 @@ It is worth thinking about how prepared your learners are for moving online. We 
 
 You may want to create a way for learners in your course to let you know that they are able to access your Moodle site. Here are some suggestions:
 
+- [Get yourself logged in](https://create.twu.ca/help/moodle/basics/introduction)
 - Check the 'Participants' list linked in the menu on the left side of the course page.
   - the second-to-last column on the right is a record of their last login.
 - [set up a forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum) and request that learners respond to a question like:
