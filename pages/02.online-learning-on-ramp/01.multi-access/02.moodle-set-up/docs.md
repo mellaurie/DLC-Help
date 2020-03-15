@@ -14,6 +14,10 @@ There are also some things you can do ahead of any significant disruption to ens
 Here are some simple tasks to help you set up a basic Moodle site.
 
 - [Accessing Moodle](https://create.twu.ca/help/moodle/basics/introduction)
+- [Make your course visible to learner](https://create.twu.ca/help/moodle/faculty/show-hide)
+  - All courses are hidden from learner view when they are first created. This gives you as faculty control over when to make it visible. You must follow the very simple instructions above before learners will be able to see your course.
+  - If a link to a course is grey in your dashboard, it is hidden.
+  - ![alt-text](visibility.png)
 - [Create a welcome forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum)
 - [Uploading files (syllabi, sample documents, etc) to Moodle](http://create.twu.ca/help/moodle/faculty/activity-or-resource/adding-resources)
 

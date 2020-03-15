@@ -88,7 +88,7 @@ You have likely seen (in your inboxes and social media feeds) ALL the EdTech Bro
 #### Have you...
 - asked your students?  
 - logged in?  
-- created a welcome forum? 
+- created a welcome forum?
 - uploaded a file?  
 - sent a message?   
 - created an assignment dropbox?  
@@ -98,5 +98,9 @@ You have likely seen (in your inboxes and social media feeds) ALL the EdTech Bro
 ---
 
 # [learn.twu.ca](https://learn.twu.ca)
+
+---
+
+![](Slide05.png)
 
 ---

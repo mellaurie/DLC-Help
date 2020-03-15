@@ -19,3 +19,9 @@ Use the basic or advanced search in the top left corner to find what you are loo
 If you don't find your answer here, or would like to set up an appointment to talk with one of our helpful Academic Technology Ambassadors, please create a [ticket](https://www.twu.ca/help)!
 
 !!! ***On mobile?*** The menu is the three lines at the top, and the navigation arrows are at the bottom of each page.
+
+<!--- Finding Help
+
+https://oet.sandcats.io/shared/rEfGT5cEIo2lMbZmYqUDDKYdHHgUKvW8SZre36e-e9F
+
+--->
