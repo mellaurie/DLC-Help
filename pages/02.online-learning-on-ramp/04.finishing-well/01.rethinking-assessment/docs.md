@@ -26,12 +26,11 @@ published: true
 
 #### EDUC 401 Learning Continuum
 
-[pdfjs=EDUC-401-Learning-Continuum.pdf]
+[Link](https://drive.google.com/file/d/1OaYgi8PpWSzeI7U_hk096AdBPhuh-cAo/view?usp=sharing_eil&ts=5e6ebbe8)
 
 #### EDUC 401 Final Exam
 
-<a class="embedly-card" data-card-controls="0" href="https://docs.google.com/document/d/1NualXqNkUwo5-8P78XUTdo9d8vGvmmkds4AQHZ3Hjx0/edit?ts=5e6ebfbb">Google Docs - create and edit documents online, for free.</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[Link](https://docs.google.com/document/d/1NualXqNkUwo5-8P78XUTdo9d8vGvmmkds4AQHZ3Hjx0/edit?ts=5e6ebfbb)]
 
 #### EDUC 401 Student Portfolio
 
@@ -43,15 +42,14 @@ published: true
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 #### EDUC 222: Final Assessment Task
-Celebration of Learning
+[Celebration of Learning](https://docs.google.com/document/d/1p871QVli09CLS4TKIfxRi2PO18VgeT0HcMW7s6f5UGs/edit?usp=sharing_eil&ts=5e6ebe51)
 
-<a class="embedly-card" data-card-controls="0" href="https://docs.google.com/document/d/1p871QVli09CLS4TKIfxRi2PO18VgeT0HcMW7s6f5UGs/edit?ts=5e6ebe51">EDUC 222 Final Assessment Task - You can copy this!</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 
 #### Scarlet the Orca
-[pdfjs=scarlet-the-orca.pdf]
+
+[Link](https://drive.google.com/file/d/1wn8OXaq76dha45-0TJjrbahfUmFWyG7U/view?usp=sharing_eil&ts=5e6ec2c6)
 
 #### EDUC 321 Final Exam
 
-<a class="embedly-card" data-card-controls="0" href="https://docs.google.com/document/d/1GzLlhDr1F33ypfYKxhZhuEIiU9xdqGDyqCBSchgxBg4/edit?ts=5e6ebee3&skip_itp2_check=true">Google Docs - create and edit documents online, for free.</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[Link](https://docs.google.com/document/d/1GzLlhDr1F33ypfYKxhZhuEIiU9xdqGDyqCBSchgxBg4/edit?usp=sharing_eil&ts=5e6ebee3)
