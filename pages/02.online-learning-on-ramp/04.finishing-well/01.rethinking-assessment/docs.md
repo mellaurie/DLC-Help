@@ -16,6 +16,7 @@ published: true
 #### Summative Assessment
 [pdfjs=summative.pdf]
 
+
 #### Wisdom Project
 <a class="embedly-card" data-card-controls="0" href="https://docs.google.com/presentation/d/1jLCHRnNPJ-qYXo4W9tdaQTfPG_ja6O3wX1iRoynRLjc/present?includes_info_params=1&eisi=COeJ77OenugCFYqRJAodkYQF-Q#slide=id.g35f391192_00">EDUC 401A - Wisdom Project 2020</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -30,7 +31,7 @@ published: true
 
 #### EDUC 401 Final Exam
 
-[Link](https://docs.google.com/document/d/1NualXqNkUwo5-8P78XUTdo9d8vGvmmkds4AQHZ3Hjx0/edit?ts=5e6ebfbb)]
+[Link](https://docs.google.com/document/d/1NualXqNkUwo5-8P78XUTdo9d8vGvmmkds4AQHZ3Hjx0/edit?ts=5e6ebfbb)
 
 #### EDUC 401 Student Portfolio
 
