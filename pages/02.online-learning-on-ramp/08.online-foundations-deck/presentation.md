@@ -104,3 +104,5 @@ You have likely seen (in your inboxes and social media feeds) ALL the EdTech Bro
 ![](Slide05.png)
 
 ---
+
+[Adrienne Castellon talks about Forums](https://zoom.us/rec/play/vMIsce6vqz43SNzDuQSDUPUrW467faus1CJN_qZfzkq8VHQDYAaibrMaarfXmVyIYfBWAmd5_24dyMgs?continueMode=true)
