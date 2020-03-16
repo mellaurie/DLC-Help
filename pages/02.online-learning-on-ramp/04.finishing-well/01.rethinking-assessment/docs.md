@@ -16,6 +16,7 @@ published: true
 #### Summative Assessment
 [pdfjs=summative.pdf]
 
+!!!! The following are samples of learner-produced artifacts which demonstrate achievement of specific learning outcomes. Each learner has granted permission for their work to be shared here, and we are grateful for their generosity.
 
 #### Wisdom Project
 <a class="embedly-card" data-card-controls="0" href="https://docs.google.com/presentation/d/1jLCHRnNPJ-qYXo4W9tdaQTfPG_ja6O3wX1iRoynRLjc/present?includes_info_params=1&eisi=COeJ77OenugCFYqRJAodkYQF-Q#slide=id.g35f391192_00">EDUC 401A - Wisdom Project 2020</a>
