@@ -54,3 +54,6 @@ published: true
 #### EDUC 321 Final Exam
 
 [Link](https://docs.google.com/document/d/1GzLlhDr1F33ypfYKxhZhuEIiU9xdqGDyqCBSchgxBg4/edit?usp=sharing_eil&ts=5e6ebee3)
+
+#### Inquiry Project
+[Link](https://docs.google.com/document/d/12vwU9Ki53M_1K7V7AVDhdOkIgkRyjKQGEBeXtbT0g98/edit?usp=sharing_eil&ts=5e6fd8e8)
