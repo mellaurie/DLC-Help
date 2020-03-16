@@ -31,6 +31,7 @@ horizontal: true
 ---
 
 # Pick 2
+With a hat tip to [Plymouth State University](https://colab.plymouthcreate.net/covid19/rule-of-2/) and [@actualham](https://twitter.com/actualham)
 
 ---
 

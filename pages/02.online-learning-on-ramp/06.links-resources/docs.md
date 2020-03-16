@@ -15,3 +15,5 @@ visible: true
 <https://twitter.com/celloyeil/status/1237773571113377792?s=20>
 
 [UBC has published an excellent resource for their faculty. It is specific to their systems but there are some good ideas that you can translate to TWU's context.](https://keepteaching.ubc.ca/)
+
+[Online Teaching: Do This, Not That - BUT please ignore the first line of the infographic! Synchronous is going to be important!](https://alisonyang.weebly.com/blog/online-teaching-do-this-not-that)
