@@ -1,5 +1,5 @@
 ---
-title: 'MAnaging Videos'
+title: 'Managing Videos'
 taxonomy:
     category:
         - docs
