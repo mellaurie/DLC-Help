@@ -40,6 +40,7 @@ Find these slides at [https://create.twu.ca/help/online-learning-on-ramp/online-
 # Pick 2
 With a hat tip to [Plymouth State University](https://colab.plymouthcreate.net/covid19/rule-of-2/) and [@actualham](https://twitter.com/actualham)
 
+
 ---
 
 #### Guiding Principles  
@@ -57,11 +58,10 @@ With a hat tip to [Plymouth State University](https://colab.plymouthcreate.net/c
 #### Big Ideas  
 Two things from your course that you want to focus on for the remainder of the course.
 
-
 ---
 
-#### Skills or Dispositions  
-Two things you hope learners will be able to do or demonstrate.
+#### Ways to find the learning moment.  
+How is this experience of a global pandemic connected to your course? Dig in! Play!!
 
 ---
 
@@ -70,8 +70,9 @@ You are not alone! The learners in your class can have excellent ideas on how to
 
 ---
 
-#### Ways to find the learning moment.  
-How is this experience of a global pandemic connected to your course? Dig in!
+#### Skills or Dispositions  
+Two things you hope learners will be able to do or demonstrate.
+
 
 ---
 
@@ -105,7 +106,7 @@ You have likely seen (in your inboxes and social media feeds) ALL the EdTech Bro
 
 ---
 
-# [learn.twu.ca](https://learn.twu.ca)
+# [Help Files](https://create.twu.ca/help/online-learning-on-ramp/multi-access)
 
 ---
 
