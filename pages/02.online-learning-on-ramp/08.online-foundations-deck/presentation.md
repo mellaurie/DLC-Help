@@ -19,7 +19,8 @@ Find these slides at [https://create.twu.ca/help/online-learning-on-ramp/online-
 
 ---
 
-![](https://twitter.com/humorandanimals/status/1239575646193569792?s=20)
+<https://twitter.com/humorandanimals/status/1239575646193569792?s=20>
+
 ---
 
 ![](watters.png)
