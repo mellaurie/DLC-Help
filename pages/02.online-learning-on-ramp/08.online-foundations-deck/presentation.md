@@ -12,6 +12,10 @@ horizontal: true
 Find these slides at [https://create.twu.ca/help/online-learning-on-ramp/online-foundations-deck](https://create.twu.ca/help/online-learning-on-ramp/online-foundations-deck)
 
 [Zoom Links](https://create.twu.ca/help/online-learning-on-ramp)
+
+---
+
+![](https://twitter.com/humorandanimals/status/1239575646193569792?s=20)
 ---
 
 ![](watters.png)
