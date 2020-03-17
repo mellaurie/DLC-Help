@@ -17,7 +17,7 @@ Here are some simple tasks to help you set up a basic Moodle site.
 - [Make your course visible to learners](https://create.twu.ca/help/moodle/faculty/show-hide)
   - All courses are hidden from learner view when they are first created. This gives you as faculty control over when to make it visible. You must follow the very simple instructions above before learners will be able to see your course.
   - If a link to a course is grey in your dashboard, it is hidden.
-  - ![alt-text](visibility.png "Check course visibility")
+![alt-text](visibility.png "Check course visibility")
 - [Create a welcome forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum)
 - [Uploading files (syllabi, sample documents, etc) to Moodle](http://create.twu.ca/help/moodle/faculty/activity-or-resource/adding-resources)
 
@@ -39,3 +39,8 @@ The assignment tool in Moodle is very robust and allows for a completely digital
 
 - [Creating Assignment Dropboxes in Moodle](http://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-an-assignment-dropbox)
 - [Grading assignments in Moodle](https://create.twu.ca/help/moodle/faculty/grade-book/grade-assignment)
+
+##### Using Moodle to manage quizzes and exams.
+
+- [Thinking about assessment](https://create.twu.ca/help/online-learning-on-ramp/finishing-well/online-final-exam)
+- [Creating quizzes in Moodle](https://create.twu.ca/help/moodle/faculty/quizzes/creating-a-quiz) 
