@@ -8,17 +8,17 @@ taxonomy:
 
 ### Scheduled Support for Faculty
 
-! Thank you to all those who participated in our on-campus and Zoom sessions covering Online Learning Foundations and Assessment Strategies. We estimate that we helped ~225 people in one way or another on Monday and Tuesday!
+!!!! Thank you to all those who participated in our on-campus and Zoom sessions covering Online Learning Foundations and Assessment Strategies. We estimate that we helped ~225 people in one way or another on Monday and Tuesday!
 
 Scott and Colin will be on campus Wednesday~~-Friday~~ (Mar 18~~-20~~) and are available for drop-in support in the OARS office on the 2nd floor of Reimer.
-
-[Here is a link to a Zoom session you can use for drop-in support.](https://twu.zoom.us/j/865477611) See the schedule below for available times.
 
 If there are gaps in the hours below, you should create a ticket by emailing [elearning@twu.ca](mailto:elearning@twu.ca). Colin and Scott will be available throughout the day as needed.
 
 Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEfGT5cEIo2lMbZmYqUDDKYdHHgUKvW8SZre36e-e9F) for contacts info of people willing to help. If you are willing to add your name to the list, please do!
 
 !!! Note that the following schedule may change without notice and that the names listed are students whose schedules may be adjusted over the next several days.
+
+[Here is a link to a Zoom session you can use for drop-in support.](https://twu.zoom.us/j/865477611) See the schedule below for available times.
 
 ### Monday
 
@@ -49,7 +49,8 @@ Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEf
 | Time | ATA |Topics |
 | --- | --- | --- |
 | 8:30 am - 10:30 am   | Matt   | Moodle, Zoom |
-| 9:am am - 3:00 pm   | Reza  | Moodle, Zoom |
+| 9:00 am - 3:00 pm   | Reza  | Moodle, Zoom |
+
 
 ### Friday
 
