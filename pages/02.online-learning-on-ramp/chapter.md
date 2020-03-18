@@ -14,7 +14,7 @@ Scott and Colin will be on campus Wednesday~~-Friday~~ (Mar 18~~-20~~) and are a
 
 If there are gaps in the hours below, you should create a ticket by emailing [elearning@twu.ca](mailto:elearning@twu.ca). Colin and Scott will be available throughout the day as needed.
 
-Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEfGT5cEIo2lMbZmYqUDDKYdHHgUKvW8SZre36e-e9F) for contacts info of people willing to help. If you are willing to add your name to the list, please do!
+Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEfGT5cEIo2lMbZmYqUDDKYdHHgUKvW8SZre36e-e9F) for contact info of people willing to help. If you are willing to add your name to the list, please do!
 
 !!! Note that the following schedule may change without notice and that the names listed are students whose schedules may be adjusted over the next several days.
 
@@ -34,7 +34,7 @@ Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEf
 | Time | ATA |Topics |
 | --- | --- | --- |
 | 9:00 am - 5:00 pm   | Reza   | Moodle, Zoom |
-| 3:00 pm - 5:00 pm   | Matt  | Moodle, Zoom |
+
 
 ### Wednesday
 
