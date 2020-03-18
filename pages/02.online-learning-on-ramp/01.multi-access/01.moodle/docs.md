@@ -10,6 +10,9 @@ visible: true
 !! [Please check the announcement on the TWU website](https://www.twu.ca) for the latest updates regarding TWU's response to COVID-19.
 
 ### Scheduled Support for Faculty
+
+
+<!---
 ##### Monday, March 16, 2020
 | Topic |  Time | Location | Zoom Link |
 |---|---|---|---|
@@ -25,6 +28,7 @@ visible: true
 |  Faculty Consulting and Support |   10:30 am - 12:00 pm  | Learning Commons  |   |
 | Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/204165331?pwd=UlZLNEJLa1VlckVkY3hyOVhyWldLdz09)  |
 |  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |
+--->
 
 ~~In the event that access to TWU campuses is completely disrupted,~~ Now that the University has decided to move online for the remainder of this semester, here are several strategies that you may employ as faculty or staff to mitigate the impact on learners in your courses. However, before considering technological 'solutions' to the problem of limited or no access to campus, it is critical to recognize that ~~if~~ now that we find ourselves in that situation, there are a host of very human and messy pressures on learners in your classes, faculty and staff in your department, and administrators at all levels. These pressures and the associated stresses in all of our lives will never be resolved by 'going online'. Ever.
 
