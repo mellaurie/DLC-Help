@@ -7,6 +7,12 @@ child_type: docs
 visible: true
 ---
 
+### A note about Bandwidth
+
+Our faculty colleague Kay McAllister passed along this blog post about recognizing the challenges of bandwidth for some learners. [Here is a link to the post](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/?fbclid=IwAR2fBxmBCuZOHfG811nfHU9nNLsHetYKME_6YQjPIMDgCckDSUg85wnSH_E), and a helpful matrix to visualize the varying levels of bandwidth and immediacy.
+
+![alt-text](bandwidth-immediacy-matrix-by-Daniel-Stanford.png "Bandwidth Immediacy Matrix by Daniel Stanford")
+
 !! NOTE: The resources on this page are from a webinar hosted by the Online Learning Consortium on March 9, 2020. Do not feel that you need to implement every one of these recommendations! Pick one or two over which you feel you have control.
 
 ## Teaching a Live, Online Session Checklist & Resources
