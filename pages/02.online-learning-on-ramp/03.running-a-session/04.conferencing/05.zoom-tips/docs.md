@@ -7,6 +7,12 @@ child_type: docs
 visible: true
 ---
 
+### Joining a Zoom Session
+
+!!!! Faculty, please share this link with learners in your course!
+
+[plugin:youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg)
+
 ### A note about Bandwidth
 
 Our faculty colleague Kay McAllister passed along this blog post about recognizing the challenges of bandwidth for some learners. [Here is a link to the post](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/?fbclid=IwAR2fBxmBCuZOHfG811nfHU9nNLsHetYKME_6YQjPIMDgCckDSUg85wnSH_E), and a helpful matrix to visualize the varying levels of bandwidth and immediacy.

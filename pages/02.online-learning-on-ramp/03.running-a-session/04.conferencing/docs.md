@@ -9,7 +9,8 @@ visible: true
 
 Video conferencing is a great way to connect with students online. Consider having weekly sessions, allowing time to teach content, explain assignments, facilitate student discussions, and assess students (presentations, etc.)
 
-! Note that you can record these sessions and post them to Moodle so students can access the recordings.
+
+! Note that you can record these sessions and [post them to MS Stream](https://create.twu.ca/help/online-learning-on-ramp/running-a-session/conferencing/managing-videos) so students can access the recordings.
 
 ### Using web-conferencing tools to connect synchronously
 
