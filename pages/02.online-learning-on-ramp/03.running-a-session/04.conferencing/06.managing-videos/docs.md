@@ -9,7 +9,7 @@ visible: true
 
 TWU has provided access to Microsoft Stream, which is like our very own YouTube, but accessible only to members of the TWU community.
 
-When you record in Zoom, please record to your local computer, then upload to MS Stream.
+!! When you record in Zoom, please record to your local computer, then upload to MS Stream.
 
 ### Accessing Stream
 
