@@ -44,6 +44,7 @@ In the white menu bar at the top of the page, click 'Create' then choose 'Channe
 
 ![alt-text](stream-4.png "Upload video file")
 
+### Add Video Details
 - Name the video to make it easy for learners to find, including the date of the recording.
 - Include a description or hashtags (optional)
 - Choose a thumbnail (optional)
@@ -55,3 +56,65 @@ In the white menu bar at the top of the page, click 'Create' then choose 'Channe
 ### Subsequent Videos
 
 The next time you need to upload a video, start by clicking 'My content', then 'Channels', select the appropriate channel, and repeat the upload process above.
+
+![alt-text](stream-6.png "My content")
+
+### Manage your computer storage
+
+**After you have confirmed that your video is in the proper channel *AND* you have tested that it plays**, you should move the original video file off of your computer and either onto an external drive (optional) or simply delete it.
+
+### Sharing your videos in Moodle
+
+Once you have uploaded your video to MS Stream, you will want to share it with your learners.
+
+- Go to your channel in MS Stream and click the ellipsis beside the title of the channel, then choose 'Share'
+
+![alt-text](share-1.png "access sharing menu")
+
+### Generate and Copy the Embed Code
+
+- Choose 'Embed' at the top of the window.
+- Change the sort order to 'Publish date'
+- Set 'Responsive' to 'On'
+- Click 'Copy'
+
+![alt-text](share-2.png "Generate and copy embed code")
+
+### Open Moodle
+
+You now need to paste the embed code into Moodle. We recommend that you paste the MS Stream channel on its own tab.
+
+- Turn editing on by clicking the gear in the top right corner.
+
+![alt-text](share-3.png "Turn editing on")
+
+### Select an Empty Tab
+
+Choose one of your tabs that doesn't have any content. If you don't have any empty tabs, click the '+' sign once.
+
+- click the 'Edit' link then choose 'Edit section'.
+
+![alt-text](share-4.png "Edit section")
+
+### Edit Tab Details
+
+- Select 'Custom' and edit the title to 'Zoom Recordings' (or similar)
+- Toggle the toolbar to show more tools
+- Click the '<>' button to edit the HTML source
+
+
+![alt-text](share-5.png "Edit tab details")
+
+### Paste Code
+
+Use 'CTRL V' (Command V for macOS users) to paste the embed code, then click 'Update'. Then scroll down and click 'Save changes'.
+
+![alt-text](share-6.png "Paste code")
+
+![alt-text](share-6a.png "Save Changes")
+
+### Your Videos are in Moodle
+
+Once you have embedded the channel into your course, all videos that you add to the channel will automagically be visible in your course.
+
+![alt-text](share-7.png "Channel in Moodle")
