@@ -10,7 +10,7 @@ taxonomy:
 
 !!!! Thank you to all those who participated in our on-campus and Zoom sessions covering Online Learning Foundations and Assessment Strategies. We estimate that we helped ~225 people in one way or another on Monday and Tuesday!
 
-Scott and Colin will be on campus Wednesday~~-Friday~~ (Mar 18~~-20~~) and are available for drop-in support in the OARS office on the 2nd floor of Reimer.
+After Friday, March 20, support for the Great TWU #OnlinePivot will be entirely online. Please see the table below for the hours that Academic Technology Ambassadors (student workers) will be available for drop-in consultations.
 
 If there are gaps in the hours below, you should create a ticket by emailing [elearning@twu.ca](mailto:elearning@twu.ca). Colin and Scott will be available throughout the day as needed.
 
