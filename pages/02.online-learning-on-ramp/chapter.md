@@ -25,8 +25,7 @@ Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEf
 | Time | ATA | Topics |
 | --- | --- | --- |
 | 9:30 am - 11:30 am   | Sharaya  | Moodle |
-| 10:00 am - 12:00 pm   | Jared   | Moodle, Zoom |
-| 12:30 - 3:30 pm   | Faith  | Moodle, Zoom |
+| 10:00 am - 12:00 pm   | Jared   | Moodle, Zoom || 12:30 - 3:30 pm   | Faith  | Moodle, Zoom |
 | 6:00 - 8:00 pm   | Matt   | Moodle, Zoom |
 
 ### Tuesday
