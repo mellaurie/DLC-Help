@@ -25,7 +25,7 @@ Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEf
 | Time | ATA | Topics |
 | --- | --- | --- |
 | 10:00 am - 12:00 pm   | Jared   | Moodle, Zoom |
-| 11:30 am - 1:30 pm   | Sharaya  | Moodle (excl. gradebook) |
+| 11:45 am - 1:15 pm   | Sharaya  | Moodle (excl. gradebook) |
 | 12:30 - 3:30 pm   | Faith  | Moodle, Zoom |
 | 6:00 - 8:00 pm   | Matt   | Moodle, Zoom |
 
@@ -41,7 +41,7 @@ Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEf
 | Time | ATA |Topics |
 | --- | --- | --- |
 | 9:00 am - 11:00 am   | Jared   | Moodle, Zoom |
-| 11:30 am - 1:30 pm   | Sharaya  | Moodle (excl. gradebook) |
+| 11:45 am - 1:15 pm   | Sharaya  | Moodle (excl. gradebook) |
 | 1:30 pm - 4:30 pm   | Catheryn  | Zoom   |
 
 ### Thursday
