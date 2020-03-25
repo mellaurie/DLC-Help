@@ -21,6 +21,10 @@ TWU has provided access to Microsoft Stream, which is like our very own YouTube,
 
 ![alt-text](priv-1.png "My content menu")
 
+! Groups allow all members of the group to upload to videos to the group, so if learners need to send you video (perhaps recordings of performances or presentations) they should use your class group to do so in order to protect their privacy.
+
+![alt-text](priv-5.png "group member submissions")
+
 ### Click the title of the group.
 
 Your group is named according to the course you are teaching.
@@ -28,6 +32,10 @@ Your group is named according to the course you are teaching.
 ![alt-text](priv-2.png "Click group name")
 
 ### Click 'Channels' in the group, then 'Create a new channel'.
+
+!!! If you have already created a channel in Stream, unfortunately, there isn't a way to edit your company wide channel to be a private channel. You will have to delete the original channel and follow the instructions below to create a new one connected to your group.
+
+![alt-text](delete-1.png "delete a channel")
 
 ! Click Membership to ensure your class list is accurate.
 
