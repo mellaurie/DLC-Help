@@ -17,27 +17,34 @@ TWU has provided access to Microsoft Stream, which is like our very own YouTube,
 
 ![alt-text](stream-1.png "Microsoft Stream Sign in for TWU")
 
-### Create a Channel
+### Click 'My content', then 'Groups'.
 
-In the white menu bar at the top of the page, click 'Create' then choose 'Channel'.
+![alt-text](priv-1.png "My content menu")
 
-![alt-text](stream-2.png "Create a Channel in MS Stream")
+### Click the title of the group.
 
-### Channel Details
+Your group is named according to the course you are teaching.
 
-- Give your channel a name that corresponds to the code for your course, e.g. BIOL 113 A.
-- Enter a description (optional)
-- Choose 'Companywide channel'
-- upload a custom channel image (the only appropriate image for a channel is a cat, obvs.)
+![alt-text](priv-2.png "Click group name")
 
-!! NOTE: For now, your videos will be visible *in MS Stream* to anyone who is logged into TWU's MS Stream account. They are **NOT** visible to anyone outside of the TWU organization. We intend to deploy more robust controls.
+### Click 'Channels' in the group, then 'Create a new channel'.
 
+You can also click 'Create a channel' on the splash page.
 
-![alt-text](stream-3.png "Channel Details")
+![alt-text](priv-3.png "Create a channel")
+
+### Enter the channel details.
+
+- Give your channel a descriptive name, likely one that matches your course, and an optional description.
+- Keep the channel access limited to your course group.
+- upload a picture of your cat
+- click 'Create'.
+
+![alt-text](priv-4.png "Channel details")
 
 ### Upload Videos
 
-- Click 'Follow' (optional)
+- Click the channel
 - Either drag and drop files to the window, or click the link to navigate to your video file.
 
 !!! Zoom recordings will be in .mp4 format.
