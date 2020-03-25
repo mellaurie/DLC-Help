@@ -33,7 +33,7 @@ Your group is named according to the course you are teaching.
 
 ### Click 'Channels' in the group, then 'Create a new channel'.
 
-!!! If you have already created a channel in Stream, unfortunately, there isn't a way to edit your company wide channel to be a private channel. You will have to delete the original channel and follow the instructions below to create a new one connected to your group.
+!!! If you have already created a channel in Stream, unfortunately, there isn't a way to edit your company wide channel to be a private channel. You will have to delete the original channel and follow the instructions below to create a new one connected to your group. Deleting the channel will ***NOT*** delete the videos within the channel, but it might change the privacy of the video.
 
 ![alt-text](delete-1.png "delete a channel")
 
