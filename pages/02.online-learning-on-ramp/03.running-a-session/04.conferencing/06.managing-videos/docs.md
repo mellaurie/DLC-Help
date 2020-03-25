@@ -82,7 +82,7 @@ The next time you need to upload a video, start by clicking 'My content', then '
 
 **After you have confirmed that your video is in the proper channel *AND* you have tested that it plays**, you should move the original video file off of your computer and either onto an external drive (optional) or simply delete it.
 
-### Sharing your videos in Moodle
+### Sharing your videos in Moodle (optional, but recommended)
 
 Once you have uploaded your video to MS Stream, you will want to share it with your learners.
 
