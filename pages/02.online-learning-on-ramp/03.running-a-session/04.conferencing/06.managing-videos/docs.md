@@ -29,6 +29,8 @@ Your group is named according to the course you are teaching.
 
 ### Click 'Channels' in the group, then 'Create a new channel'.
 
+! Click Membership to ensure your class list is accurate.
+
 You can also click 'Create a channel' on the splash page.
 
 ![alt-text](priv-3.png "Create a channel")
@@ -57,6 +59,8 @@ You can also click 'Create a channel' on the splash page.
 - Choose a thumbnail (optional)
 - Once the file has uploaded and has been processed, click 'Publish'.
 - For now, don't change the permissions or options.
+
+!!!! Videos that you upload to channels that are in a private group will only be accessible to members of that group.
 
 ![alt-text](stream-5.png "Video Details")
 
