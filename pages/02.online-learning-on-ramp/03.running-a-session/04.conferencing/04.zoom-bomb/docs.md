@@ -16,7 +16,7 @@ visible: false
 
 Zoom is a synchronous (live) web conferencing tool that is fantastic for fostering meaningful instructor-student and student-student interactions. It is being used by many faculty to assist them with a smooth transition to temporary remote teaching and learning.
 
-However, in this time of disruption, there has been an increased likelihood that you may have uninvited attendees show up in your meetings and deliberately try to derail it. During the COVID-19 period, educators are reporting incidents of “Zoom-bombing” or “Zoom trolls.” The following four tips are provided to help you continue with your synchronous instruction in Zoom without the burden of uninvited attendees.
+However, in this time of disruption, there has been an increased likelihood that you may have uninvited attendees show up in your meetings and deliberately try to derail it. During the COVID-19 period, educators are reporting incidents of “Zoom-bombing” or “Zoom trolls.” The following six tips are provided to help you continue with your synchronous instruction in Zoom without the burden of uninvited attendees.
 
 ## If you use Zoom, you are encouraged to follow tips 1-3:
 
