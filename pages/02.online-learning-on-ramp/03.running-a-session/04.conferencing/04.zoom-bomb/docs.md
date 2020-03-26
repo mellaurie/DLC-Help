@@ -42,7 +42,6 @@ Most likely, your Zoom In-Meeting settings at the account level are set to allow
 
 > Below is a screenshot of the Zoom meeting settings at the account level. To check your account settings, go to zoom.us, sign in, choose Settings on the left, and then select **In-Meeting (Basic)** and scroll to **Screen sharing**.
 
-![](image5.png)
 
 #### In-Meeting Screen Share Settings
 
@@ -54,7 +53,7 @@ Most likely, your Zoom In-Meeting settings at the account level are set to allow
   - Select **Only Host**
 3. When you get to a point in your meeting that you want students to share, simply return to the same Advanced Sharing Options and adjust the settings.
 
-![](image4.png)
+
 
 
 
