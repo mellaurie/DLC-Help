@@ -9,6 +9,8 @@ published: true
 
 ## For Faculty
 
+! Scroll down for instructions for students.
+
 We are currently testing the provisioning of 'Groups' in MS Stream that are based on each course being offered by TWU.
 
 This means that you, as faculty can control to a much greater extent, who can and cannot see your videos.
