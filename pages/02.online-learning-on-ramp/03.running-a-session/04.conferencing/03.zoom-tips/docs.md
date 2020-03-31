@@ -11,7 +11,7 @@ visible: true
 
 !!!! Faculty, please share this link with learners in your course!
 
-[plugin:youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg)
+[plugin:youtube](https://youtu.be/hIkCmbvAHQQ)
 
 ### A note about Bandwidth
 

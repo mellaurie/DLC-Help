@@ -64,11 +64,11 @@ On the next page...
 
 ##### Zoom Tutorial Videos
 
-[plugin:youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg)
+[plugin:youtube](https://youtu.be/sJq_OM5VcDY)
 
-[plugin:youtube](https://www.youtube.com/watch?v=AYzPS28rg7E)
+[plugin:youtube](https://youtu.be/9guqRELB4dg)
 
-[plugin:youtube](https://www.youtube.com/watch?v=9wsWpnqE6Hw)
+[plugin:youtube](https://youtu.be/Ih5KGJ3DqvE)
 
 ##### Zoom Tutorial Articles
 
