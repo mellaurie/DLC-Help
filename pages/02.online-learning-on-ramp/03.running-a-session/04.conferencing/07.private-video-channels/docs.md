@@ -85,3 +85,5 @@ There are three options to begin the upload process:
 !!!! Videos that you upload to channels that are in a private group will only be accessible to members of that group.
 
 ![alt-text](stream-5.png "Video Details")
+
+![alt-text](priv-8.png "Video Permissions Details")
