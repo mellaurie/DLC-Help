@@ -1,5 +1,5 @@
 ---
-title: 'Review Option Quiz'
+title: 'Faculty'
 taxonomy:
     category: docs
 child_type: docs
