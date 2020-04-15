@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
->>>> _**Turnitin.com cannot and does not detect plagiarism.**_ 
+!! _**Turnitin.com cannot and does not detect plagiarism.**_ 
 
 #### Why TurnItIn isn't helping.
 <a class="embedly-card" data-card-controls="0" href="https://www.insidehighered.com/blogs/just-visiting/final-nail-coffin-turnitin">A Final Nail in the Coffin for Turnitin? | Just Visiting</a>
