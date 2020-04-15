@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
->>>>> _**Turnitin.com cannot and does not detect plagiarism.**_ It is, at best, a moderately effective tool that can be used as the basis for conversations between students and faculty about academic integrity.
+>>>>>> _**Turnitin.com cannot and does not detect plagiarism.**_ 
 
 #### Why TurnItIn isn't helping.
 <a class="embedly-card" data-card-controls="0" href="https://www.insidehighered.com/blogs/just-visiting/final-nail-coffin-turnitin">A Final Nail in the Coffin for Turnitin? | Just Visiting</a>
