@@ -140,3 +140,5 @@ If a disruptive, uninvited attendee appears in your meeting, the first thing you
 
 
 ![alt-text](bomb-4.png "lock meeting")
+
+![alt-text](zoom.jpg "zoom tips infographic")
