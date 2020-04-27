@@ -55,11 +55,11 @@ You may want to create a way for learners in your course to let you know that th
 - [Get yourself logged in](https://create.twu.ca/help/moodle/basics/introduction)
 - Check the 'Participants' list linked in the menu on the left side of the course page.
   - the second-to-last column on the right is a record of their last login.
-- [set up a forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum) and request that learners respond to a question like:
+- [Set up a forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum) and request that learners respond to a question like:
   - where are your feet right now?
   - what birds can you hear from where you are?
   - what is the biggest question you have about the remainder of the course?
-- [send a message](https://create.twu.ca/help/moodle/faculty/participants/sending-mass-messages) with the same info as above
+- [Send a message](https://create.twu.ca/help/moodle/faculty/participants/sending-mass-messages) with the same info as above
 - [check the course logs](https://create.twu.ca/help/moodle/faculty/participants/view-course-logs)
   - you will be able to see much greater detail about who has signed in to Moodle and what they have looked at.
 

@@ -34,7 +34,6 @@ b) any additional costs, beyond tuition and ancillary fees, associated with e-le
 
 NA
 
-
 c) the kind of support and protection available to them.
 
 We have a general IT Service desk for general computer and network troubleshooting and support in addition to a dedicated team of Academic Technology Ambassadors who provide specific support for Academic Technologies (Moodle, WordPress, Pressbooks, etc). Support is provided via a ticketing system or drop-in during business hours. In conjunction with the Learning Commons there are a variety of workshops available for students.

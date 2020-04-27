@@ -32,7 +32,7 @@ After you read through this checklist, make it your own by deleting, adding, and
 
 #### Create & Share Your Session Details
 - **Create your live session on the platform of your choice.** Follow Zoom’s directions for scheduling meetings (“Web” for basic directions), or directions from your selected platform.
-- Share your session link with students. Users can join by computer and telephone (Zoom also has a mobile app). Remind students of any work that should be completed to prepare for the session.
+- **Share your session link with students.** Users can join by computer and telephone (Zoom also has a mobile app). Remind students of any work that should be completed to prepare for the session.
 
 #### Reminders
 - **Remind students of your session start date/time.** Send an email the day before and then about an hour before your session starts. If you have other ways to reach your students (Remind texting service, your LMS, etc.), multiple points of outreach are ideal.
