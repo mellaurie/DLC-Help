@@ -7,33 +7,32 @@ published: false
 
 Many courses at TWU require that learners have access to basic computer hardware and software.
 
-Computer and processor
+##### Computer and processor
 Windows OS: 1.6 gigahertz (GHz) or faster, 2-core
 
 macOS: Intel processor
 
 
-Memory
+##### Memory
 Windows OS: 4 GB RAM; 2 GB RAM (32-bit)
 
 macOS: 4 GB RAM
 
-Operating system
+##### Operating system
 Windows OS: Windows 10, Windows 8.1
 
 macOS: One of the three most recent versions of macOS. When a new major versions of macOS is released, the macOS and the previous two versions.
 
-Browser
+##### Browser
 Recommended: The current version of Safari, Chrome, or Firefox.
 Will work, but performance may be reduced: The current version of Microsoft Edge.
 
-Technical competence:
+##### Technical competence:
 TWU requires minimal critical technical proficiency, including the ability to compose emails and include attachments, format word processing documents and connect to and browse the internet.
 
 b) any additional costs, beyond tuition and ancillary fees, associated with e-learning aspects of course/program delivery
 
 NA
-
 
 
 c) the kind of support and protection available to them.
