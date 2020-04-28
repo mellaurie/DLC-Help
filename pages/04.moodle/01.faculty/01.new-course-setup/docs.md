@@ -1,5 +1,6 @@
 ---
 title: 'New Course Setup'
+hide_git_sync: true
 taxonomy:
     category: docs
 child_type: docs
@@ -30,7 +31,7 @@ There are a few things you should do before the semester starts to ensure that y
 - [Add your reading lists using the EBSCO Curriculum Builder.](http://create.twu.ca/help/moodle/faculty/activity-or-resource/ebsco-curriculum-builder)
 - [Add TAs to your course.](http://create.twu.ca/help/moodle/faculty/participants/add-user)
 - Upload an image to the 'Course summary files' section of the course settings page to display on the dashboard thumbnail.
-- Delete this section and add your own welcome.
+- Keep this section hidden, or delete it if you no longer need it.
 
 ### Tips
 
