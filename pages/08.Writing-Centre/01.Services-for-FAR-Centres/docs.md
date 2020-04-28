@@ -6,18 +6,19 @@ taxonomy:
 child_type: docs
 visible: true
 ---
-- **Undergraduate**:
+
+- **Undergraduate**:  
   - Online Writing Sessions, live video conferencing sessions
-  - WriteAway.ca, Online Writing Support, writing feedback within 48 hours    
+  - WriteAway.ca, Online Writing Support, writing feedback within 48 hours      
 
 
-- **Graduate**:
+- **Graduate**:  
   - Online Writing Sessions, live video conferencing sessions
 
 
 ### Online Writing sessions
 
-To book online writing sessions, visit **twu.ca/writing** or **create.twu.ca/learningcommons**
+To book online writing sessions, visit **[twu.ca/writing]** or **[create.twu.ca/learningcommons]**
 
 ![](writing1.png)
 
@@ -49,7 +50,7 @@ To access the appointment booking system, you will need to register your account
 
 ![](writing9.png)
 
-### Fill out the appointment form.(Sessions are for one hour.)  
+### Fill out the appointment form. (Sessions are for one hour.)  
 
 ![](writing10.png)
 

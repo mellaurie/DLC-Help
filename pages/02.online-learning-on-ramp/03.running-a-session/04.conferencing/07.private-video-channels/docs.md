@@ -41,8 +41,8 @@ You can also click 'Create a channel' on the splash page.
 
 - Give your channel a descriptive name, likely one that matches your course, and an optional description.
 - Keep the channel access limited to your course group.
-- upload a picture of your cat
-- click 'Create'.
+- Upload a picture of your cat
+- Click 'Create'.
 
 ![alt-text](priv-4.png "Channel details")
 

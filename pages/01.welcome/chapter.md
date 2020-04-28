@@ -4,9 +4,9 @@ taxonomy:
     category: docs
 ---
 
-### TWU Digital Learning Commons
+## TWU Digital Learning Commons
 
-## Documentation
+### Documentation
 
 ### Finding what you need...
 

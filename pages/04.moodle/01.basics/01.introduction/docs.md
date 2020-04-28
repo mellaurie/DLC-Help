@@ -23,7 +23,6 @@ The first page you see in Moodle will be your `Dashboard` showing all of your cu
 ![](dashboard-1.png)
 1. Tap the `Resources` link to access Frequently Asked Questions and other helpful articles.
 
-
 ![](dashboard-2.png)
 
 2. Your current courses should be available under the `In progress` link. If you don't see them there, they may be on a separate page (click the navigation arrows to show more courses), or they may be under the `Future` tab.

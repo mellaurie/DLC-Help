@@ -27,7 +27,6 @@ If you have content in MyCourses that you think you may need to access in the fu
 ![alt-text](backup-1.png "Course menu in MyCourses")
 
 ##### Select Content
-
 - Use the checkboxes to choose which content to include in your backup.
 
 ![alt-text](backup-2.png "choose content for backup")
@@ -38,11 +37,9 @@ If you have content in MyCourses that you think you may need to access in the fu
 ![alt-text](backup-3.png "Continue")
 
 ##### Click 'Continue' again
-
-Scroll to the bottom of the next page and click 'Continue' again.
+- Scroll to the bottom of the next page and click 'Continue' again.
 
 ![alt-text](backup-4a.png "Continue")
-
 
 
 ##### Click (you guessed it) 'Continue' yet again.
@@ -52,7 +49,6 @@ Scroll to the bottom of the next page and click 'Continue' again.
 ![alt-text](backup-4b.png "Continue")
 
 ##### Download your backup file
-
 - On the next screen you will see a list of all of the backups you have created for that course.
 - click the title of the course to download the file to your computer.
 
