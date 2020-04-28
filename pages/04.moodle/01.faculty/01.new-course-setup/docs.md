@@ -8,7 +8,8 @@ child_type: docs
 ### Hello, and welcome to your new course site.
 
 !!! Your course is visible to you as the instructor, but it is hidden from students. When you are ready, you will need to click the gear in the top, right corner, choose `Edit settings`, and choose `Show` beside `Course visibility`, then `Save and display`.
-Need help?
+
+### Need help?
 
 There are a couple different ways you can get help in setting up and managing your course.
 
@@ -28,9 +29,10 @@ There are a few things you should do before the semester starts to ensure that y
 - [Set up your gradebook.](http://create.twu.ca/help/moodle/faculty/grade-book/gradebook-setup)
 - [Add your reading lists using the EBSCO Curriculum Builder.](http://create.twu.ca/help/moodle/faculty/activity-or-resource/ebsco-curriculum-builder)
 - [Add TAs to your course.](http://create.twu.ca/help/moodle/faculty/participants/add-user)
-- You can delete the link to these help pages by clicking the gear, then `Edit settings` and deleting the text in the `Course summary`.
+- Upload an image to the 'Course summary files' section of the course settings page to display on the dashboard thumbnail.
+- Delete this section and add your own welcome.
 
-Tips
+### Tips
 
 - [Check out our course design resources for ideas.](https://create.twu.ca/coursedesign/)
 - Instead of uploading files, create 'Pages' so that students don't have to download anything.
