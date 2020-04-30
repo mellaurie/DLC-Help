@@ -55,12 +55,12 @@ After you read through this checklist, make it your own by deleting, adding, and
 - **Support and refer.** Ask your institution to provide faculty with a list of school and community resources to support students during a crisis. Consider sharing this in your meeting preparation/reminder emails in advance of each session.
 - **Set expectations early on.** Share the agenda and explain how you want your learners to participate. Should they use non-verbal feedback to simulate hand-raising? Add questions and comments in the chat? Will you make use of breakout rooms for small group discussions? Be clear, and take a few minutes to demonstrate the features you’ll be using (and which you expect participants to use).
 - **Mute audio when not speaking.** All noises can be picked up by your microphone including typing, shuffling papers, etc. Minimize distractions by muting your microphone when you’re listening. If you are the meeting host (main presenter), you can mute others.
--
+
 #### In-Meeting Tips
 - **Mute audio when not speaking.** All noises can be picked up by your microphone including typing, shuffling papers, etc. Minimize distractions by muting your microphone when you’re listening. If you are the meeting host (main presenter), you can “mute all.”
 - **Check the chat box.** Some participants might not be able to speak up during the meeting. Others might have technical difficulties. The chat box can be used to address those issues as well as provide another place where conversation can take place during the meeting.
 - **Check on your screen-sharing.** If you’re not sure whether your participants see the content you’ve intended to screen-share, ask them! If something’s not working right, remember that you can always send files or website links to your participants through the chat. Do your best and don’t let tech challenges throw you off track.
--
+
 #### Engagement Tools
 - **Start and end strong.** Primacy-recency effect states that people will most remember the first and last five minutes of a learning experience. Use your time wisely by planning a strong start and finish. Stories, videos, images, chats, and polls can all boost engagement.
 - **Use the chat.** The chat is your best friend in an online session. While we might discourage chatting in a land-based classroom, the opposite is true in an online session. Encourage your students to comment about the topic at hand in the chat. This will keep them engaged and active. Ask lots of questions, especially if you’re lecturing, and comment on students’ responses in the chat. It’s very easy to use the chat for an informal poll (e.g., share one word that comes to mind when you think of today’s topic). Formal polls take time to create.
