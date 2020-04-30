@@ -13,5 +13,5 @@ When logged in to TWU Create, you will always have access to an admin menu visib
 
 Navigating between the Dashboard and the public view of your site.
 
-For further instructions see [link](http://umw.domains/wordpress-basics/#dashboard).\
+For further instructions see [link](http://umw.domains/wordpress-basics/#dashboard).
 Content taken from [University of Mary Washington](http://umw.domains/wordpress-basics/)
