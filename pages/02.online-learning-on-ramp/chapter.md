@@ -26,74 +26,21 @@ Laurie Matthias and Nina Lui discuss re-thinking authentic and relevant ways to 
 
 ### Scheduled Support for Faculty
 
-!!!! Thank you to all those who participated in our on-campus and Zoom sessions covering Online Learning Foundations and Assessment Strategies. We estimate that we helped ~225 people in one way or another on Monday and Tuesday!
+!!!! Thank you to everyone who participated in our first cohort of the Teaching ONline Effectively (TOnE) mini-course. We look forward to the second cohort beginning May 19. Watch for more info here and in your inbox.
 
-After Friday, March 20, support for the Great TWU #OnlinePivot will be entirely online. Please see the table below for the hours that Academic Technology Ambassadors (student workers) will be available for drop-in consultations.
+Our Academic Technology Ambassadors (ATAs), who are all students, have completed their contracts and so we are adjusting how we will provide support through the summer.
 
-If there are gaps in the hours below, you should create a ticket by emailing [elearning@twu.ca](mailto:elearning@twu.ca). Colin and Scott will be available throughout the day as needed.
+#### Access our frequently asked questions page.
+We have an extensive and growing list of [self-help tutorials here](https://create.twu.ca/help) and also in the menu bar in Moodle under 'Resources'.
 
-Please also check our [Community Support Hub](https://oet.sandcats.io/shared/rEfGT5cEIo2lMbZmYqUDDKYdHHgUKvW8SZre36e-e9F) for contact info of people willing to help. If you are willing to add your name to the list, please do!
+#### Create a ticket
+The best way to ensure someone will see your request is to  create a ticket by emailing [elearning@twu.ca](mailto:elearning@twu.ca) or visiting [twu.ca/help](https://twu.ca/help).
 
-!!! Note that the following schedule may change without notice and that the names listed are students whose schedules may be adjusted over the next several days.
+#### Join the team in MS Teams
+We have created a Team in Microsoft Teams, [please join the team at this link.](https://teams.microsoft.com/l/team/19%3ac4a16207670f47488af233b44bbf601a%40thread.tacv2/conversations?groupId=44141a65-3057-4afb-aa95-a85d566d4bd3&tenantId=2b4ef155-1673-43ef-a480-230c3d483f16) You will be prompted for a code, which is `nee3yxh`.
 
-[Here is a link to a Zoom session you can use for drop-in support.](https://twu.zoom.us/j/865477611) See the schedule below for available times.
+Once you are in the team, you can use the chat function to send a direct message to Reza by typing `@reza` and choosing 'Reza Khosrowtaj' and then clicking 'Send'.
 
-### Monday
+Alternately, you can click the 'Meet now' button to start a video call.
 
-| Time | ATA | Topics |
-| --- | --- | --- |
-| 9:30 am - 11:30 am   | Sharaya  | Moodle |
-| 10:00 am - 12:00 pm   | Jared   | Moodle, Zoom || 12:30 - 3:30 pm   | Faith  | Moodle, Zoom |
-| 6:00 - 8:00 pm   | Matt   | Moodle, Zoom |
-
-### Tuesday
-
-| Time | ATA |Topics |
-| --- | --- | --- |
-| 9:00 am - 5:00 pm   | Reza   | Moodle, Zoom |
-
-
-### Wednesday
-
-| Time | ATA |Topics |
-| --- | --- | --- |
-| 9:00 am - 11:00 am   | Jared   | Moodle, Zoom |
-| 9:30 am - 11:30 am   | Sharaya  | Moodle |
-| 1:30 pm - 4:30 pm   | Catheryn  | Zoom   |
-
-### Thursday
-
-| Time | ATA |Topics |
-| --- | --- | --- |
-| 8:30 am - 10:30 am   | Matt   | Moodle, Zoom |
-| 9:00 am - 3:00 pm   | Reza  | Moodle, Zoom |
-
-
-### Friday
-
-| Time | ATA |Topics |
-| --- | --- | --- |
-| 9:00 am - 11:30 am   | Catheryn   |  Zoom |
-| 9:30 am - 11:30 am   | Sharaya  | Moodle |
-| 12:00 pm - 3:00 pm   | Jared  | Moodle, Zoom |
-
-
-
-
-<!---
-##### Monday, March 16, 2020
-| Topic |  Time | Location | Zoom Link |
-|---|---|---|---|
-|Moving Online: Foundations   |  9:00 - 10:00 am   | Block Hall    |  [Link to Session](https://twu.zoom.us/j/826710374?pwd=a2VPZVNOWWVibXVuemFiTTNpUUR2QT09) |
-| Faculty Consulting and Support     | 10:30 am - 12:00 pm  | Learning Commons  |   |
-| Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/900964178?pwd=ckN2WDNiR3ZoZktCdkpzbEoyWjcwQT09)  |
-|  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |
-
-##### Tuesday, March 17, 2020
-| Topic |  Time | Location | Zoom Link |
-|---|---|---|---|
-|  Moving Online: Foundations |  9:00 - 10:00 am  |  Block Hall | [Link to Session](https://twu.zoom.us/j/280965367?pwd=MlRwOWJScnE1VTRTc1hNeHUwWjhHQT09&_ga=2.268795058.2138497719.1584210451-1486935178.1580334446)   |
-|  Faculty Consulting and Support |   10:30 am - 12:00 pm  | Learning Commons  |   |
-| Final Assessment Alternatives  |   1:00 - 2:00 pm  | Block Hall  | [Link to Session](https://twu.zoom.us/j/204165331?pwd=UlZLNEJLa1VlckVkY3hyOVhyWldLdz09)  |
-|  Faculty Consulting and Support |   2:30 - 5:00 pm  | Learning Commons  |   |
---->
+![alt-text](meet-now.png "Meet Now button")
