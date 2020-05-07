@@ -24,10 +24,6 @@ Laurie Matthias and Nina Lui discuss re-thinking authentic and relevant ways to 
 
 ---
 
-[Web-story about an example Multi-Access course](http://tiny.cc/BackStageCourse)
 
-![alt-text](image001.png "Plan Ahead")
-
----
 
 ### See the next page for support options.

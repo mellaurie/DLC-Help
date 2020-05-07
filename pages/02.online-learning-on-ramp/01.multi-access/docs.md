@@ -8,8 +8,11 @@ visible: true
 ---
 <!--- Do not change! --->
 
-Multi Access Course Example: http://tiny.cc/BackStageCourse
+[Web-story about an example Multi-Access course](http://tiny.cc/BackStageCourse)
 
+![alt-text](image001.png "Plan Ahead")
+
+---
 ### Finding what you need...
 
 Tap on a topic in the left-hand menu.
