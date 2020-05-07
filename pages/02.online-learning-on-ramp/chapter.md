@@ -23,4 +23,9 @@ Laurie Matthias and Nina Lui discuss re-thinking authentic and relevant ways to 
 <p><a href="https://vimeo.com/398392036">TWU Online Jam Assessment</a> from <a href="https://vimeo.com/twucourses">Trinity Western Courses</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
+
+[Web-story about an example Multi-Access course](http://tiny.cc/BackStageCourse)
+
+![alt-text](image001.png "Plan Ahead")
+
 ### See the next page for support options.
