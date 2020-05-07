@@ -28,4 +28,6 @@ Laurie Matthias and Nina Lui discuss re-thinking authentic and relevant ways to 
 
 ![alt-text](image001.png "Plan Ahead")
 
+---
+
 ### See the next page for support options.
