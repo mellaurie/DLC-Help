@@ -8,7 +8,7 @@ visible: true
 ---
 <!--- Do not change! --->
 
-### Multi Access Course Example (http://tiny.cc/BackStageCourse)
+Multi Access Course Example http://tiny.cc/BackStageCourse
 
 ### Finding what you need...
 
