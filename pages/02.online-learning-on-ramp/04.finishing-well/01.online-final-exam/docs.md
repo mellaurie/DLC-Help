@@ -58,3 +58,4 @@ These are some resources on creating effective final exam questions which I foun
 By Paul Hibbitts ([hibbittsdesign.org](http://hibbittsdesign.org/))
 
 ![alt_text](Delivering-a3.png "image_tooltip")
+
