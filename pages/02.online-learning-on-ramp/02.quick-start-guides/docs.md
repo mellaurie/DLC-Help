@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Quick Start Guides
 taxonomy:
     category:
         - docs
