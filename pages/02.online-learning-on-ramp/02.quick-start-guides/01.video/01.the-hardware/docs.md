@@ -1,5 +1,5 @@
 ---
-title: 'Video'
+title: 'The Hardware'
 taxonomy:
     category:
         - docs
