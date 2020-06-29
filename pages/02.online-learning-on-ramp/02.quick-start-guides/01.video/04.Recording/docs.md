@@ -1,5 +1,5 @@
 ---
-title: 'Video'
+title: 'Step 4: Recording A Class Session'
 taxonomy:
     category:
         - docs

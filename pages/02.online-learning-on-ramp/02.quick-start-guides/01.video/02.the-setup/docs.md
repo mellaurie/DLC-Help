@@ -1,5 +1,5 @@
 ---
-title: 'Video'
+title: 'Step 2: The Setup'
 taxonomy:
     category:
         - docs

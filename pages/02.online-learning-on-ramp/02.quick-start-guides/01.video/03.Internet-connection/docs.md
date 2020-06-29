@@ -1,5 +1,5 @@
 ---
-title: 'Video'
+title: 'Step 3: Internet Connection'
 taxonomy:
     category:
         - docs

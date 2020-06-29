@@ -1,5 +1,5 @@
 ---
-title: 'The Hardware'
+title: 'Step 1: The Hardware'
 taxonomy:
     category:
         - docs
