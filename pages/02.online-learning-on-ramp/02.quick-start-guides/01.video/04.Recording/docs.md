@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
+visible: true
 ---
 
 Let’s go through the software and systems you will using as you run your class.

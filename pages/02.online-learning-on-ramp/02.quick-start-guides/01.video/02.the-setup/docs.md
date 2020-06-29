@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
+visible: true
 ---
 
 Great! Now that we have a working computer, camera and microphone, let’s talk about the ideal recording setup.

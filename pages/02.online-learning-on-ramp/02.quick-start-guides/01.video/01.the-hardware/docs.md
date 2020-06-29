@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
+visible: true
 ---
 
 Before we dive in, let’s take a moment and make sure you have all the tools you’ll need for the job. At minimum you will need a computer, a camera, and a microphone. There is more gear that might be relevant to you, but we’ll address that later.
