@@ -7,7 +7,7 @@ child_type: docs
 visible: false
 ---
 
-### Step 4: Running A Class Session
+### Step 4: Recording A Class Session
 Let’s go through the software and systems you will using as you run your class.
 #### Moodle
 You should be aware that as of June 15, 2020, TWU has shifted away from MyCourses as our learning management system (LMS). Now we are using Moodle. There is great training available on Moodle which you can find as [a part of the Online Learning On-Ramp](https://create.twu.ca/help/online-learning-on-ramp/multi-access/moodle).
