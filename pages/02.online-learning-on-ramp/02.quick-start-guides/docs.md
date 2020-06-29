@@ -1,11 +1,12 @@
 ---
-title: Quick Start Guides
+title: 'Quick Start Guides'
 taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
+visible: true
 ---
+
 <!--- Do not change! --->
 
 [Web-story about an example Multi-Access course](http://tiny.cc/BackStageCourse)
