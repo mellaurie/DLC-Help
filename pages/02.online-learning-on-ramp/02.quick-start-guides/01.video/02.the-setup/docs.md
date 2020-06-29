@@ -7,7 +7,6 @@ child_type: docs
 visible: false
 ---
 
-### Step 2: The Setup
 Great! Now that we have a working computer, camera and microphone, let’s talk about the ideal recording setup.
 
 #### A Quiet Space
