@@ -66,7 +66,7 @@ So your room is quiet now. Great! But what does it look like? By keeping your re
 **Suggested Ring Light:** https://amzn.to/2NyCPMo
 
 #### Camera Position
-- Let’s make you look great! Ideally your camera should be positioned to line up with your eyes. This is the most natural, flattering angle (no-one wants a double chin).
+- Let’s make you look great! **Ideally your camera should be positioned to line up with your eyes.** This is the most natural, flattering angle (no-one wants a double chin).
 - Unless teaching with whiteboard, or teaching aids, you should be in the centre of the frame with just a little bit of space between your head and the top of the frame.
 
 There are a few options for positioning your camera to eye height:
