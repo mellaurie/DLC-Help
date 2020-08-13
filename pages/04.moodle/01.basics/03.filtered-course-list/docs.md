@@ -27,7 +27,7 @@ Moodle users have the option of creating a filtered course list to show a conden
 `shortname | exp | My courses | (FA17)` to `shortname | exp | Fall 2020 | (FA20)` (in future semesters, use the abbreviation for the current semester)
 
 
-!!!! Optional: Add a second line of code that reads `shortname | collapsed | Upcoming | (SU19)` to show your courses for the upcoming semester, but collapsed under a toggle.
+!!!! Optional: Add a second line of code that reads `shortname | collapsed | Upcoming | (SP21)` to show your courses for the upcoming semester, but collapsed under a toggle.
 
 #### Click 'Save changes'.
 
