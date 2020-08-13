@@ -12,11 +12,17 @@ Moodle is one component of TWU's Digital Learning Commons, which also includes [
 
 
 #### Login
-Go to [learn.twu.ca](https://learn.twu.ca) and enter your TWUPass credentials.
 
-![](twu-pass-1.png)
+Go to [learn.twu.ca](https://learn.twu.ca) and enter your TWU email and password. You may notice that you are signed in automatically if you are already signed in to a different TWU system (Office365).
 
-!!!! If you don't know your TWU Pass username or password, click 'Forgot your Username or Password?' on the right side of the sign-in window.
+!!!! Every TWU student, staff, and faculty member has been assigned a ...@mytwu.ca (students) or ...@twu.ca (staff and faculty) email address. In ***most*** cases, your username is `firstname.lastname` and it is identical to the username you use to sign in to TWUPass.
+!!!! To sign in to Moodle, your email will be as follows:
+!!!! - firstname.lastname@mytwu.ca if you are a student;
+!!!! - firstname.lastname@twu.ca if you are staff or faculty.
+!!!! If you cannot sign in to Moodle, please contact [the elearning helpdesk at elearning@twu.ca](mailto:elearning@twu.ca).
+
+![](sign-in-1.png)
+
 
 The first page you see in Moodle will be your `Dashboard` showing all of your current courses.
 
