@@ -33,4 +33,6 @@ The first page you see in Moodle will be your `Dashboard` showing all of your cu
 
 2. Your current courses should be available under the `In progress` link. If you don't see them there, they may be on a separate page (click the navigation arrows to show more courses), or they may be under the `Future` tab.
 3. Tap or click the course title to go to that course.
-4. If a course title is greyed out, the course is not visible to students. [Tap or click here for instructions to make your course visible.](https://create.twu.ca/help/moodle/faculty/show-hide).  
+4. Students: if you don't see your course, there are a few reasons that may explain this, [which you can review here](https://create.twu.ca/help/moodle/basics/course-not-showing).
+4. Faculty: if a course title is greyed out, the course is not visible to students. [Tap or click here for instructions to make your course visible.](https://create.twu.ca/help/moodle/faculty/show-hide).
+   - All courses are hidden by default and must be made visible to students by adjusting the settings of the course.

@@ -2,7 +2,6 @@
 title: Filtered Course List
 taxonomy:
     category: docs
-child_type: docs
 ---
 
 Moodle users have the option of creating a filtered course list to show a condensed list of current courses and replace the 'Course overview' block.
@@ -25,7 +24,7 @@ Moodle users have the option of creating a filtered course list to show a conden
 
 #### Change the line that reads
 
-`shortname | exp | My courses | (FA17)` to `shortname | exp | Spring 2019 | (SP19)` (in future semesters, use the abbreviation for the current semester)
+`shortname | exp | My courses | (FA17)` to `shortname | exp | Fall 2020 | (FA20)` (in future semesters, use the abbreviation for the current semester)
 
 
 !!!! Optional: Add a second line of code that reads `shortname | collapsed | Upcoming | (SU19)` to show your courses for the upcoming semester, but collapsed under a toggle.
