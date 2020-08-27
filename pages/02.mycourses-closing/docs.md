@@ -1,11 +1,11 @@
 ---
-title: MyCourses is Closing
+title: MyCourses is Closed
 taxonomy:
     category: docs
 published: true
 ---
 
-!! Please be advised that MyCourses, the previous TWU learning management system, will be closed on June 15, 2020.
+!! Please be advised that MyCourses, the previous TWU learning management system, was closed on June 15, 2020.
 
 ## Students
 
