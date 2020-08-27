@@ -14,7 +14,7 @@ child_type: docs
 
 There are a couple different ways you can get help in setting up and managing your course.
 
-- Click 'FAQ' in the top menu bar of Moodle to access our [growing list of self-help tutorials](https://create.twu.ca/help/moodle).
+- Click 'Resources' in the top menu bar of Moodle to access our [growing list of self-help tutorials](https://create.twu.ca/help/moodle).
 - Click '[Moodle Docs for this page](http://docs.moodle.org/35/en/course/view/onetopic)' at the bottom of every Moodle page for the (somewhat dense) Moodle documentation pages.
 - [Create a ticket for the Academic Technology Ambassadors](https://trinitywestern.teamdynamix.com/TDClient/Requests/TicketRequests/TicketForm.aspx?ID=hRv7mA08DtA_), or, if you can't sign in there, send an email to [elearning@twu.ca](mailto:elearning@twu.ca).
 
