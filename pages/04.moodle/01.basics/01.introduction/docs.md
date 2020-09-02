@@ -19,7 +19,17 @@ Go to [learn.twu.ca](https://learn.twu.ca) and enter your TWU email and password
 !!!! To sign in to Moodle, your email will be as follows:
 !!!! - firstname.lastname@mytwu.ca if you are a student;
 !!!! - firstname.lastname@twu.ca if you are staff or faculty.
+
+##### Help with email
+
+<a class="embedly-card" data-card-controls="0" href="https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=25042">Accessing your @mytwu.ca Email</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<a class="embedly-card" data-card-controls="0" href="https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15573">Forwarding Your Email to Another Account</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 !!!! If you cannot sign in to Moodle, please contact [the elearning helpdesk at elearning@twu.ca](mailto:elearning@twu.ca).
+
 
 ![](sign-in-1.png)
 
