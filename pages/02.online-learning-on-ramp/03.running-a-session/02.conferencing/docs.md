@@ -16,11 +16,13 @@ Video conferencing is a great way to connect with students online. Consider havi
 
 ##### zoom.us
 
-You can now go to [twu.zoom.us](https://twu.zoom.us), tap or click 'Sign In' and sign in to Zoom using your TWU Pass credentials.
+!! **Do NOT try to use Zoom to proctor or otherwise supervise an exam. It is utterly inadequate for the task, and it creates an environment that is hostile to learners performing their best on an assessment. [See this link for alternate assessment ideas.](https://create.twu.ca/help/online-learning-on-ramp/finishing-well/rethinking-assessment)**
+
+Go to [twu.zoom.us](https://twu.zoom.us), tap or click 'Sign In' and sign in to Zoom using your TWU Office365 credentials (firstname.lastname@**twu.ca** for faculty and staff or firstname.lastname@**mytwu.ca** for learners).
 
 ![alt_text](zoom-1.png "Zoom Sign-in Page")
 
-OR, if you already have the Zoom app installed, you can open it and choose 'Sign In with SSO' and use your TWU Pass credentials.
+OR, if you already have the Zoom app installed, you can open it and choose 'Sign In with SSO' and use your TWU Office365 credentials (firstname.lastname@twu.ca or firstname.lastname@mytwu.ca).
 
 ![alt_text](zoom-2.png "Zoom App Sign-in")
 
@@ -29,7 +31,7 @@ Once you are signed in, we recommend that you schedule **one** Zoom session per 
 ###### Click 'Schedule a Meeting'
 ![alt_text](zoom-3.png "click schedule a meeting")
 
-###### The following settings are recommended, but feel free to adjust to your circumstances.
+###### The following settings are suggested, but feel free to adjust to your circumstances.
 ![alt_text](zoom-5.png "session topic")
 - use your course code for the 'Topic' and the title of the course for the 'Description'.
 
@@ -38,13 +40,17 @@ Once you are signed in, we recommend that you schedule **one** Zoom session per 
 - set the duration for your normal class duration plus about 30 minutes (15 minutes before and after class)
 - select the 'Recurring Meeting' checkbox to indicate any other days of the week that you meet
 - set it to recur weekly and repeat every one week
-- set the end date to April 29
+
+!!!! Alternately, you can choose 'No Fixed Time' in the 'Recurrence' settings and leave the session open for drop-ins.
 
 ![alt_text](zoom-6.png "security settings")
-- ensure that both 'Registration' and 'Meeting Password' are deselected.
+- you may want to require registration to ensure your learners are logging in with their TWU credentials
+  - this is important if you want to pre-set breakout rooms
+- Zoom will be requiring a passcode for all sessions in an upcoming update.
 
 ![alt_text](zoom-7.png "video settings")
 - ensure that video settings are both set to 'Off'
+- remember that faculty are expected to allow learners to keep their video feed off.
 
 ![alt_text](zoom-8.png "call-in settings")
 - allow both telephone and computer audio to allow participants to dial in if they don't have a stable network connection
@@ -59,6 +65,8 @@ On the next page...
 ![alt_text](zoom-10.png "invite link")
 - you can either simply share the link provided on the meeting page, or
 - tap or click 'Copy the invitation'
+
+!! Do NOT share this link on an open website or in any social media (Instagram, Twitter, etc.)
 
 !!!! We recommend that you post this invitation, including the join link and the call-in numbers, prominently in your Moodle site where learners will know to find it. You may also choose to email it to your class list, and include the basic information in any reminders.
 
@@ -80,6 +88,7 @@ On the next page...
 ##### Zoom FAQ
 [TWIT has created a page of resources (many of which are duplicated here) including a list of FAQs.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=101246)
 
+<!--
 ##### BlueJeans
 TWU continues to provide central management of BlueJeans for web-conferencing, however, our service agreement with BlueJeans will expire after April 30, 2020.
 
@@ -88,6 +97,8 @@ If you have access to a BlueJeans license through TWU, you may continue to use t
 !! TWU will **NOT** be providing NEW BlueJeans licenses to faculty at this time. If you do not currently use BlueJeans and want to set up web-conferencing for the remainder of your classes, please see the instructions above to sign in to Zoom.
 
 - [Tap of click here to access BlueJeans support for getting started.](https://support.bluejeans.com/s/getting-started-meetings-user-step-1)
+
+-->
 
 ##### Other services
 There are several other options for faculty who may have already established means of synchronous communication such as Skype, FaceTime, Google Hangouts, Slack, Discord, etc. Our ability to troubleshoot these services will be very limited.
