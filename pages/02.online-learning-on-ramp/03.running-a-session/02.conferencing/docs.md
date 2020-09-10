@@ -58,6 +58,7 @@ Once you are signed in, we recommend that you schedule **one** Zoom session per 
 
 ![alt_text](zoom-9.png "meeting options")
 - select 'Enable join before host' and 'Mute participants upon entry'
+- if you want to pre-set breakout rooms, select 'Only authenticated users can join'
 - tap or click 'Save'
 
 On the next page...
