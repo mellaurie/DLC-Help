@@ -1,12 +1,12 @@
 ---
-title: 'Presence'
+title: 'On-Screen Presence'
 taxonomy:
     category:
         - docs
 child_type: docs
 visible: false
 ---
-### On-screen Presence
+
 ![alt-text](student.png "a young man using a laptop computer")
 
 As video conferencing, and online classes are becoming more the norm,  you might be considering how to improve your on-screen presence. If so, this guide is for you. For sorting through the techy side of things, as well as gear recommendations, please see [Sorting Through Your Techy Video Issues.](https://create.twu.ca/help/online-learning-on-ramp/quick-start-guides/video)
