@@ -43,4 +43,4 @@ The assignment tool in Moodle is very robust and allows for a completely digital
 ##### Using Moodle to manage quizzes and exams.
 
 - [Thinking about assessment](https://create.twu.ca/help/online-learning-on-ramp/finishing-well/online-final-exam)
-- [Creating quizzes in Moodle](https://create.twu.ca/help/moodle/faculty/quizzes/creating-a-quiz) 
+- [Creating quizzes in Moodle](https://create.twu.ca/help/moodle/faculty/quizzes/creating-a-quiz)
