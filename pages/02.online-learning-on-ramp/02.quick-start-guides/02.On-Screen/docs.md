@@ -16,7 +16,7 @@ As video conferencing, and online classes are becoming more the norm,  you migh
 ![alt-text](professional.jpg  "A woman demonstrating good framing for video conferencing")
 
 Do you want to look professional on camera? Let’s start with the camera. Recording videos with a neutral camera position and good framing will feel most natural to anyone watching you on a screen. Start by positioning the camera at the same height as your eyes. Position yourself in the centre of the frame and leave a little space between the top of your head and the top of the frame. If you have lights, set them up ensuring that you have enough light directed at your face.
-##### Avoid Poor framing
+##### Avoid Poor Framing
 ![alt-text](bad-framing.png "A man demonstrating bad framing for video conferencing")
 
 If you can, try and avoid poor framing. If your head is touching the top of the frame, it's too close!
