@@ -1,6 +1,6 @@
 ---
 title: 'On-Screen Presence'
-published: false
+published: true
 taxonomy:
     category:
         - docs
