@@ -1,45 +1,38 @@
 ---
 title: 'On-Screen Presence'
-published: false
+published: true
 taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
+visible: true
 ---
+![a young man using a laptop computer](student.png  "On-screen Presence" )
 
-![alt-text](student.png "a young man using a laptop computer")
-
-As video conferencing, and online classes are becoming more the norm,  you might be considering how to improve your on-screen presence. If so, this guide is for you. For sorting through the techy side of things, as well as gear recommendations, please see [Sorting Through Your Techy Video Issues.](https://create.twu.ca/help/online-learning-on-ramp/quick-start-guides/video)
+As video conferencing, and online classes are becoming more the norm,  you might be considering how to improve your on-screen presence. If so, this guide is for you. For sorting through the techy side of video conferencing and filming, as well as gear recommendations, please see [Sorting Through Your Techy Video Issues.](https://create.twu.ca/help/online-learning-on-ramp/quick-start-guides/video)
 
 #### Looking Professional
-![alt-text](professional.jpg  "A woman demonstrating good framing for video conferencing")
+![A woman demonstrating good framing for video conferencing](professional.jpg "Looking Professional")
 
-Do you want to look professional on camera? Let’s start with the camera. Recording videos with a neutral camera position and good framing will feel most natural to anyone watching you on a screen. Start by positioning the camera at the same height as your eyes. Position yourself in the centre of the frame and leave a little space between the top of your head and the top of the frame. If you have lights, set them up ensuring that you have enough light directed at your face.
-##### Avoid Poor framing
-![alt-text](bad-framing.png "A man demonstrating bad framing for video conferencing")
+Do you want to look more professional on your next Zoom meeting or video presentation? Let’s start with the camera. A neutral camera position and good framing will feel most natural to anyone watching you on a screen.
 
-If you can, try and avoid poor framing. If your head is touching the top of the frame, it's too close!
+Start by positioning the camera (or webcam) at the same height as your eyes. Position yourself in the centre of the frame and leave a little space between the top of your head and the top of the frame. If you can, try and avoid poor framing. If your head is touching the top of the frame, it's too close!
 
-##### Avoid Shadows
-![alt-text](dark.png "A man demonstrating bad lighting for video conferencing")
+ If you have lights, set them up ensuring that you have enough light directed at your face (and not too much light hitting your camera).
+If light from either a window or other large light source is brighter behind you than in front of you, you risk being covered in shadows! Please avoid being covered in shadows.
 
- If light from either a window or other large light source is pouring in behind you, you risk, you risk being covered in shadows. Please avoid being covered in shadows.
-
+![An image demonstrating poor framing next to an image demonstrating poor lighting](bad_examples.png "Bad Examples")
 
  Find out how you can [take advantage of natural light when on camera!](https://www.youtube.com/watch?v=j7Rf6u-XveM)
 
 #### Sounding Good
-![alt-text](mic.jpg "A laptop computer, microphone and lamp")
+![A laptop computer, microphone and lamp](mic.jpg "Sounding Good")
 
 Whenever possible, do not use your  built-in microphone. Try and position your external microphone no further than 6 inches away from your mouth, and far away from any environmental noises (such as a computer). For a more in-depth look at mic positioning [watch this.](https://www.youtube.com/watch?v=Y-D_Lh1W-98)
 
 #### Feeling Good
-![alt-text](feeling-good.jpg "A man rejoices")
+![A man rejoices](feeling-good.jpg "Feeling Good")
 
 Let’s talk about you. The whole transition to learning online has left a lot of us feeling a little odd. It can be a startling transition to suddenly be talking to a camera instead of a person. Fortunately there are a few things that you can do to increase your comfort level. Take a moment and watch this short video for some great tips on  [getting comfortable on camera.](https://www.youtube.com/watch?v=ymyVwx4xNNQ)
 
-#### Participation
-![alt-text](participation.jpg "A smiles while working on a laptop computer")
-
-When participating in an online meeting or class, try and engage with the speaker. Remember that you aren’t watching a video, you are engaging with real people. Keep using listening cues, such as nodding, smiling or whatever body language you normally you would normally use in a face-to-face conversation. When you are not speaking, please mute your microphone. This will ensure you avoid sharing any potentially distracting environmental noises with other participants.
+We hope you've found these tips useful as you adapt the changes in your academic experience. Should you have any questions, please contact [elearning@twu.ca](mailto:elearning@twu.ca).
