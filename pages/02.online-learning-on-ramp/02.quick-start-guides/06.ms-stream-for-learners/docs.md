@@ -12,7 +12,7 @@ TWU has provided access to Microsoft Stream, which is like our very own YouTube,
 
 ### Accessing Stream
 
-[Visit web.microsoftstream.com](https://web.microsoftstream.com) and sign in with your TWU Pass credentials, including your full TWU email address ([firstname.lastname]@mytwu.ca).
+[Visit web.microsoftstream.com](https://web.microsoftstream.com) and sign in with your TWU Pass credentials, including your full TWU email address `firstname.lastname]@mytwu.ca`.
 
 ![alt-text](stream-1.png "Microsoft Stream Sign in for TWU")
 
@@ -21,7 +21,7 @@ TWU has provided access to Microsoft Stream, which is like our very own YouTube,
 ![alt-text](priv-1.png "My content menu")
 
 
-### Click the title of the group.
+### Click the title of your course group.
 
 Your group is named according to the course you are taking.
 
@@ -29,11 +29,10 @@ Your group is named according to the course you are taking.
 
 ### Click 'Channels' in the group.
 
-
+![alt-text](channel.png "Click Channels")
 
 ### Upload Videos
 
-- Click the channel
 - Either drag and drop files to the window, or click the link to navigate to your video file.
 
 !!! Zoom recordings will be in .mp4 format.
